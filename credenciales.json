@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "ecopingubotia-mbgu",
+  "private_key_id": "4cafe1e133e8c59d8166bef0644385438ac89494",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvAIBADANBgkqhkiG9w0BAQEFAASCBKYwggSiAgEAAoIBAQCtfuVZodGxrlph\nqa1op3w0aeRT/Meoix9SfbPLbe6UmKBp2Hj9o0UH+pGv0cKcX/s8n0pMKmJQ6pSl\nqfL2O+bEuZSBODdv0Wblr1VfM7cskreDb9u4KC+8UZmurcxAzwJAJJz4dTF+hsKS\nohaYv8H5W1tVJCEVJrmBfHhSoRGSY7Ij1Vc886tkOXl87x8tXiyGxRAqFffTnzdK\niX40iZK5H3IdC7nQkq1wYSUk4OuXosNDSzj2f38trL/50ZMtAz4gmDucscYyGk/7\nvLBpQD+9sddlLodFUG2ghRXwXw+oEBv1aZxQEHYAoRHbHhr+nbJuwR7jOviBTfsh\nAhh9VDQRAgMBAAECggEAPM3q4ol4fO2upmi5qiJ8wL/V8mt2rAaqIRaGA0dRZMnC\n+qWP7dChWmUCVxzMOFLZMctf1ibKkzJLi23vBUZEH/Esb0c9ApbgmaHj6TwuN9Rp\ntYpn9ng7FqSAmHw3yATk9IcAboFgKchf+9UL11fpSxOuBD5ny8ppHEz7vHXPuz5a\nllpQThpUqx0cpI7SRACF4sMp46G4IEoSkmMHW8IRtJmLkXbRMDu4d0SgW8/Pxlg9\nmwHDGcFpu/ADUrJpx4XEqBZpPodzBe52Efz/8VNL0vFzzHlLukCQ3H5MRMNywNZk\n3TLVVLb2aGMAgysuD6ja/FDMGFMx3FkzC1RrZf648wKBgQDe0QtQ9FPIEp2VZJyS\nr2AoDYntGMsWc2aDBP+VH7vEzQIKmELWXLo+37jna69w5hd5qmo4NKxMPMzR9deR\nttWPIXg4bE7tClRGHc9vVkfjOhwgxmS7OQvDuRo/Bnv+XLu4ge57e49/f0qYyC4T\nZuqwDgXb6Wz+9myR3HmPKtq1TwKBgQDHVXnzu4veBQYSvlJCz1X/T1bfEeYTZzrc\nx/hbJhMyqppsfsGUrgKiA4SmxyPls59iPNEhWj9zo0aOczD6ABP9oY/M1QRgcXU+\nS/1h/rAaJlvubXetytnQba0515gvW0nkfrawxrlyrPJDWYyOq0nrohYzTEpqGMxL\n/6/PsnLonwKBgGmyvuyDSu9BLXH+DWxkN3gonAJWXZjj24BRsbCbIibEnbBK9IHd\n8Rf8ZymY4tvqur4jgknxar6rpPoA5mcgVYSVewNBFdvKp5mvcIS/aFC5czh1BLnv\n4M3TFElLmSxb700ijfAT+EmiJ8/8PidEDhbAQDVHMUZtvakf7qZkzOVvAoGAIpRQ\ncJjDXcOPVycPDCn9qCmyT0ZCnHEXA//otJ85S1vPKC0hFdLOAB8OHwSC1LFBYABe\n4yNNyJi1f7a581SaIzCoyobVmIl2JlV2Yk6VbCPlZMo2rb535LFyEIu3CdgTTIEy\n3h3LQ/p+mHJrcMCENU1L/qAodJlSr4hujmBNkM8CgYBXZiinEIuRofbu3npCbD1D\nJQhPVWngSCBUNNR6665TWByWrVOjdu+5aEkP2gR/m5Z24GkTgdHLlGkFJv5uCM8l\nHRxE65JS01FnDFC2pWgGqajV46uBX1E5Xxd1mHKm25YLJwL1bsG5a1871TsR20Vi\nfus05AIcVmghiJaGz9m1uQ==\n-----END PRIVATE KEY-----\n",
+  "client_email": "ecopingudiscordbot-key@ecopingubotia-mbgu.iam.gserviceaccount.com",
+  "client_id": "113639894202185772252",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/ecopingudiscordbot-key%40ecopingubotia-mbgu.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
