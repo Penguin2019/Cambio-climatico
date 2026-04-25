@@ -1,0 +1,9 @@
+# Secretos y llaves de acceso
+contraseñas.env
+credenciales.json
+
+# Archivos de Python y sistema
+__pycache__/
+*.py[cod]
+.env
+.virtualenvs/
