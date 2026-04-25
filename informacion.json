@@ -1,0 +1,1170 @@
+{
+  "datos_curiosos_reciclaje": [
+    "El papel encerado de cocina, el papel calca y el papel higiénico no se pueden reciclar.",
+    "No se pueden reciclar stickers, material adhesivo ni cinta adhesiva.",
+    "Las cajas de pizza y las de huevos sí se pueden reciclar; se deben depositar en el contenedor de cartón.",
+    "Las latas de aluminio se pueden reciclar y volver a estar en el estante de una tienda en tan solo 2 meses.",
+    "Los huesos eran uno de los artículos más reciclados antes del siglo XX para fabricar botones, gelatina alimentaria y pegamento.",
+    "Reciclar una lata de aluminio ahorra energía suficiente para hacer funcionar un televisor durante unas 3 horas.",
+    "El reciclaje de una sola botella de plástico conserva energía suficiente para iluminar una bombilla de 60W hasta por 6 horas.",
+    "El reciclaje de una tonelada de plástico puede ahorrar entre 1,000 y 2,000 litros de gasolina.",
+    "Suiza lidera la tasa de reciclaje mundial con un 52%, seguida de Australia (49,7%) y Alemania (48%).",
+    "El aluminio es infinitamente reciclable; no pierde sus propiedades ni tiene un límite de ciclos.",
+    "En Finlandia, 9 de cada 10 botellas de plástico se devuelven y se recicla casi el 100% del vidrio.",
+    "El reciclaje de aluminio ahorra el 95% de la energía necesaria para producir aluminio virgen.",
+    "Si se reciclaran todos los periódicos del mundo, se salvarían más de 250 millones de árboles cada año.",
+    "El 'Proyecto Doggone' en Alemania gestiona de forma sostenible los restos de animales domésticos transformándolos en abono.",
+    "Mil kilos de papel reciclado salvan 17 árboles, 1,300 litros de petróleo y reducen drásticamente la contaminación del aire.",
+    "La resina de plástico virgen suele costar un 40% menos que la reciclada, lo que representa un reto económico para la industria.",
+    "A finales de 1800, los vendedores ambulantes fueron los primeros recicladores al recolectar artículos usados para revenderlos.",
+    "El reciclaje, la reutilización y el compostaje crean entre 6 y 10 veces más puestos de trabajo que los vertederos comunes.",
+    "El vidrio se separa por colores al reciclarse porque conserva su color original incluso después del proceso.",
+    "Debido a la baja tasa de reciclaje global, se talan selvas tropicales a una velocidad de 400,000 metros cuadrados por minuto.",
+    "En los Puntos GIRA no se pueden reciclar pilas, tubos fluorescentes ni espejos.",
+    "La cerámica, la vajilla rota y los espejos no son reciclables; deben desecharse con precaución en la basura común.",
+    "Para reciclar botellas PET correctamente: retira tapas y etiquetas, enjuaga, seca, aplasta y deposita en el contenedor.",
+    "Reciclar 1,000 kilos de plástico evita el consumo de 5,028 kWh de electricidad y 39,260 litros de agua.",
+    "De cada kilogramo de envase de vidrio reciclado se obtiene exactamente 1 kg de vidrio nuevo.",
+    "El papel aluminio, aunque esté limpio, generalmente no se acepta en los procesos de reciclaje doméstico.",
+    "Apagar la luz es 'Reducir', poner un botón es 'Reparar', usar bolsas de tela es 'Reusar' y clasificar residuos es 'Reciclar'.",
+    "La bicicleta es el medio de transporte que genera menos CO2 por kilómetro recorrido.",
+    "Los cepillos de dientes, focos y envases de pasta dental no son reciclables debido a su mezcla de materiales.",
+    "Aprovechar las sobras de comida para hacer cremas o bizcochos es una forma de reducir el desperdicio orgánico.",
+    "Plegar las cajas de cartón antes de reciclarlas ayuda a optimizar el espacio y la eficiencia del transporte."
+  ],
+  "datos_curiosos_contaminacion": [
+    "Generamos 21,5 millones de toneladas de residuos alimenticios cada año. Si se compostasen estos residuos, se reduciría la misma cantidad de gases de efecto invernadero que retirar 2 millones de automóviles de la carretera.",
+    "Las bolsas de plástico que se tiran en el océano matan a más de un millón de criaturas marinas al año.",
+    "Más del 60% de la basura que acaba en el cubo de basura podría ser reciclado.",
+    "Más del 70% de los residuos electrónicos termina en China, donde gran parte de ellos se recicla en talleres familiares. Sus métodos de reciclaje son a menudo rudimentarios y pueden crear graves contaminantes ambientales y riesgos para la salud.",
+    "Las colillas de cigarrillos y los filtros tardan 12 años en biodegradarse. Un bidón de aluminio tarda entre 200 y 500 años para biodegradarse. Los pañales de plástico y compresas tardan entre 500-800 años.",
+    "Una botella de vidrio moderna puede tardar más de 4000 años en descomponerse, y si es en el vertedero entonces es probable que tarde más tiempo que eso.",
+    "Más de 11 millones de toneladas de ropa reciclable, zapatos y textiles se depositan en vertederos cada año. Esto equivale a 70 mil millones de camisetas.",
+    "Más de 1 millón de aves marinas mueren cada año por contaminación oceánica producida por desperdicios que podrían haber sido reciclados.",
+    "La mayoría de la gente produce 2 kg de basura por día, que se traduce en más de media tonelada de residuos sólidos por año.",
+    "Una bolsa de plástico tarda entre 500 y 1.000 años en degradarse.",
+    "En Ecuador se genera 12.900 toneladas de basura al día, es decir 1.000 camiones llenos de desechos.",
+    "Un 57% de la basura común es materia orgánica y un 30% corresponde a residuos reciclables.",
+    "Un chicle demora cinco años en descomponerse.",
+    "Las pilas y la espuma flex tardan el mismo tiempo en descomponerse: 1.000 años.",
+    "El vidrio es el material que más tiempo demora en descomponerse.",
+    "Una sola pila puede contaminar 600.000 litros de agua.",
+    "Más del 60% de residuos que acaban en la basura general, podrían reciclarse. Es decir, casi 2/3 partes de los artículos que se depositan en los vertederos podrían haberse reciclado.",
+    "Crear latas a partir de recicladas supone un ahorro de energía del 95%. Su descomposición tarda 500 años, pero, si se reciclan están de vuelta en el supermercado en menos de dos meses.",
+    "Podríamos salvar 250 millones de árboles si recicláramos los periódicos. Para fabricar 1.000kg de papel se necesitan 3.000 kg de madera, por lo que, si queremos salvar nuestros bosques no podremos dejar atrás su reciclado.",
+    "El vidrio emplea incluso 5.000 años en desaparecer de nuestro entorno. Pero una botella de vidrio es 100% reciclable, por lo que podemos utilizarla de manera indefinida. Por ejemplo, si recicláramos una botella ahorraríamos suficiente energía para alimentar una bombilla de 100 vatios durante cuatro horas.",
+    "Para generar una botella de plástico con una capacidad de 1 litro son necesarios 80 litros de agua.",
+    "La acumulación de bolsas de plástico en el océano acaba con más de un millón de criaturas marinas anualmente.",
+    "Nunca debes tirar aceite usado por el fregadero. Con solo un litro de él, puedes contaminar hasta 1.000 litros de agua limpia. Llévalo a un punto limpio."
+  ],
+  "datos_uso_recursos": [
+    "27.000 árboles son talados cada día para hacer papel higiénico.",
+    "Hace años, el aluminio solía ser más valioso que el oro.",
+    "Medio millón de árboles tienen que ser cortados sólo para producir los periódicos del domingo cada semana.",
+    "La grasa humana obtenida por liposucción puede ser reciclada como combustible.",
+    "Se cortan 24 árboles para hacer 1 tonelada de periódicos.",
+    "Al menos un tercio de los materiales de los vertederos podrían ser reciclados.",
+    "La cantidad de madera y papel que se tiran cada año es suficiente para calentar 50.000.000 hogares durante 20 años.",
+    "El inadecuado manejo de los residuos es uno de los mayores problemas de contaminación ambiental que hay.",
+    "El Polipropileno es el plástico tipo 5 (PP). Lo encuentras en tapas de botellas, sorbetes, contenedores de alimentos y material médico.",
+    "El vidrio no pierde sus propiedades al ser reciclado. Se puede reciclar todo tipo de vidrio de forma infinita.",
+    "Si en un envase encuentras el número 41 dentro del símbolo de reciclaje, está elaborado de aluminio y es reciclable.",
+    "En construcción sustentable, los envases de Tetra Pak® sirven para recubrir paredes y fabricar tejas tras un tratamiento especial.",
+    "Los envases de Tetra Pak® protegen los alimentos sin necesidad de conservantes ni refrigeración, ahorrando energía en la cadena de frío.",
+    "El material que más abunda en la corteza terrestre es el aluminio. Se considera noble porque se recicla sin perder calidad.",
+    "Un envase de Tetra Pak® contiene una mezcla de cuatro materiales: aluminio, plástico, papel y cartón.",
+    "El Polietileno de alta densidad (PEHD) lleva el número 2. Se usa en envases de leche, detergentes y desinfectantes.",
+    "PET significa Tereftalato de Polietileno (Número 1). Es el plástico más común en botellas de refrescos y agua.",
+    "El Polietileno de baja densidad (PELD) lleva el número 4. Se encuentra en bolsas, stretch film y plástico de burbujas.",
+    "El plástico tipo 7 es una mezcla de distintos materiales y generalmente no puede ser reciclado mediante métodos convencionales.",
+    "Fabricar papel reciclado consume un 62% menos de energía y un 86% menos de agua que producir papel virgen.",
+    "Reciclar una sola botella de plástico ahorra la energía necesaria para mantener encendida una bombilla durante 6 horas.",
+    "Se necesitan unos 2.700 litros de agua para fabricar una sola camiseta de algodón, lo que una persona bebe en 2 años y medio.",
+    "Producir un kilo de carne de res requiere aproximadamente 15.000 litros de agua.",
+    "Aproximadamente el 80% de lo que tiramos a la basura podría ser reciclado, pero solo aprovechamos una fracción.",
+    "Para fabricar un ordenador portátil se requieren unos 190.000 litros de agua y múltiples minerales extraídos de la tierra."
+  ],
+  "alternativas": [
+    {
+    "proveedor": "Rice Love",
+    "vende": "Mochilas y bolsos",
+    "info": "Hechos con sacos de arroz reciclados; dona un saco de arroz por cada producto vendido",
+    "url": "https://ricelove.com/",
+    "categoria": "bolsas"
+  },
+  {
+    "proveedor": "Notabag",
+    "vende": "Bolsas",
+    "info": "Diseño 2 en 1 (bolsa/mochila); miembro de 1% for the Planet",
+    "url": "https://www.notabag.com/",
+    "categoria": "bolsas"
+  },
+  {
+    "proveedor": "Stasher",
+    "vende": "Bolsas de silicona reutilizables",
+    "info": "Alternativa a bolsas plásticas; aptas para congelador y microondas",
+    "url": "https://www.stasherbag.com/",
+    "categoria": "bolsas"
+  },
+  {
+    "proveedor": "ALOHA Collection",
+    "vende": "Bolsas de viaje",
+    "info": "Bolsas ligeras e impermeables; dona 5% de ganancias a conservación hawaiana",
+    "url": "https://aloha-collection.com/",
+    "categoria": "bolsas"
+  },
+  {
+    "proveedor": "PlanetBox",
+    "vende": "Loncheras de acero",
+    "info": "Duraderas y libres de plásticos; fomentan reducción de residuos",
+    "url": "https://planetbox.com/",
+    "categoria": "loncheras"
+  },
+  {
+    "proveedor": "Pangaia",
+    "vende": "Prendas de ropa cómoda",
+    "info": "Usa algodón reciclado y PLNTFIBER; mide y reduce huella de carbono",
+    "url": "https://pangaia.com/",
+    "categoria": "ropa"
+  },
+  {
+    "proveedor": "Uniform Handmade",
+    "vende": "Prendas de ropa de edición limitada",
+    "info": "Hechas a mano con lino y tintes naturales; diseñadas para armarios cápsula",
+    "url": "https://uniformhandmade.store/",
+    "categoria": "ropa"
+  },
+  {
+    "proveedor": "Allbirds",
+    "vende": "Ropa y calzado deportivo",
+    "info": "Materiales naturales como lana y caña de azúcar; certificada B Corp; vende productos de segunda mano",
+    "url": "https://www.allbirds.com/",
+    "categoria": "ropa"
+  },
+  {
+    "proveedor": "Five12",
+    "vende": "Ropa deportiva",
+    "info": "Fabricada con redes de pesca y botellas recicladas; ofrece protección solar y control de humedad",
+    "url": "https://five12apparel.com/",
+    "categoria": "ropa"
+  },
+  {
+    "proveedor": "Patagonia",
+    "vende": "Ropa outdoor",
+    "info": "Usa materiales reciclados y dona parte de sus ganancias a causas ambientales",
+    "url": "https://www.patagonia.com/",
+    "categoria": "ropa"
+  },
+  {
+    "proveedor": "Tentree",
+    "vende": "Ropa sostenible",
+    "info": "Planta 10 árboles por cada prenda vendida; materiales ecológicos",
+    "url": "https://www.tentree.com/",
+    "categoria": "ropa"
+  },
+  {
+    "proveedor": "Nisolo",
+    "vende": "Calzado ético",
+    "info": "Fabricado en talleres responsables; materiales sostenibles",
+    "url": "https://nisolo.com/",
+    "categoria": "ropa"
+  },
+  {
+    "proveedor": "Swedish Stockings",
+    "vende": "Medias",
+    "info": "Fabricadas con materiales reciclados; programa Recycling Club para medias viejas",
+    "url": "https://swedishstockings.com/",
+    "categoria": "ropa"
+  },
+  {
+    "proveedor": "Their Jewelry",
+    "vende": "Joyería",
+    "info": "Fina y semi-fina hecha con materiales reciclados; sostenibilidad integrada en toda la operación",
+    "url": "https://theirstudios.com/en-mx",
+    "categoria": "accesorios"
+  },
+  {
+    "proveedor": "Pela Vision",
+    "vende": "Gafas compostables",
+    "info": "Monturas hechas de bioplásticos compostables",
+    "url": "https://pelavision.com/",
+    "categoria": "accesorios"
+  },
+  {
+    "proveedor": "Goodr",
+    "vende": "Gafas deportivas",
+    "info": "Modelos asequibles hechos con materiales reciclados; diseño divertido",
+    "url": "https://goodr.com/",
+    "categoria": "accesorios"
+  },
+  {
+    "proveedor": "Dick Moby",
+    "vende": "Gafas de sol",
+    "info": "Modelos biodegradables y fabricados con plásticos reciclados",
+    "url": "https://www.dick-moby.com/",
+    "categoria": "accesorios"
+  },
+  {
+    "proveedor": "Rothy’s",
+    "vende": "Zapatos reciclados",
+    "info": "Fabricados con botellas de plástico recicladas; lavables y duraderos",
+    "url": "https://rothys.com/",
+    "categoria": "zapatos"
+  },
+  {
+    "proveedor": "VirtueBrush",
+    "vende": "Cepillos de dientes y pelo de bambú",
+    "info": "Alternativas renovables sin plásticos; programa de plantación de árboles (más de 62,000)",
+    "url": "https://virtuebrush.com/",
+    "categoria": "aseo"
+  },
+  {
+    "proveedor": "Boreal Folk",
+    "vende": "Productos para cuerpo y baño",
+    "info": "Usa plantas obtenidas éticamente; laboratorio móvil; embalajes ecológicos",
+    "url": "https://www.borealfolk.ca/",
+    "categoria": "aseo"
+  },
+  {
+    "proveedor": "Ethique",
+    "vende": "Champús sólidos",
+    "info": "Sin plásticos; barras de champú y acondicionador biodegradables",
+    "url": "https://ethique.com/",
+    "categoria": "aseo"
+  },
+  {
+    "proveedor": "My Skin Feels",
+    "vende": "Artículos de aseo",
+    "info": "Usa residuos alimentarios como naranjas, aceitunas y avena para crear productos nutritivos para la piel",
+    "url": "https://www.myskinfeels.com/",
+    "categoria": "aseo"
+  },
+  {
+    "proveedor": "Wildcraft",
+    "vende": "Productos naturales para la piel",
+    "info": "Usa ingredientes botánicos locales; envases reciclables",
+    "url": "https://wildcraftcare.ca/",
+    "categoria": "aseo"
+  },
+  {
+    "proveedor": "Who Gives A Crap",
+    "vende": "Papel higiénico reciclado",
+    "info": "Fabricado con materiales reciclados; dona 50% de ganancias a proyectos de saneamiento",
+    "url": "https://whogivesacrap.org/",
+    "categoria": "aseo"
+  },
+  {
+    "proveedor": "Fluff",
+    "vende": "Maquillaje rellenable",
+    "info": "Envases diseñados para durar; lanzamientos trimestrales de edición limitada",
+    "url": "https://www.itsallfluff.com/",
+    "categoria": "cosmeticos"
+  }, 
+  {
+    "proveedor": "Manduka",
+    "vende": "Esterillas de yoga",
+    "info": "Hechas de caucho natural renovable y tintes no AZO; programa de reciclaje LiveON",
+    "url": "https://eu.manduka.com/es/collections/yoga-mats-eko-series",
+    "categoria": "deporte"
+  },
+  {
+    "proveedor": "Radiate",
+    "vende": "Fogatas portátiles",
+    "info": "Hechas con cera reciclada y mechas de papel; lata reutilizable",
+    "url": "https://radiateportablecampfire.com/password",
+    "categoria": "camping"
+  },
+   {
+    "proveedor": "BioLite",
+    "vende": "Estufas y lámparas portátiles",
+    "info": "Convierte fuego en electricidad; productos para camping con energía limpia",
+    "url": "https://www.bioliteenergy.com/",
+    "categoria": "camping"
+  },
+  {
+    "proveedor": "Orta Gardens",
+    "vende": "Artículos de jardinería",
+    "info": "Macetas de autorriego, semilleros y kits de microgreens; ofrece consejos para proyectos sin residuos",
+    "url": "https://ortakitchengarden.com/",
+    "categoria": "jardinería"
+  },
+  {
+    "proveedor": "Shaf (Sp-Berner)",
+    "vende": "Muebles de jardín",
+    "info": "Fabricados con más de 70% de plástico reciclado; planta fotovoltaica genera 5,190,079 kWh/año",
+    "url": "https://shop.sp-berner.com/collections/muebles-plastico-exterior",
+    "categoria": "jardinería"
+  },
+  
+  {
+    "proveedor": "BackYardHive",
+    "vende": "Artículos de apicultura",
+    "info": "Promueve prácticas saludables y libres de químicos; ofrece cursos online y kits",
+    "url": "https://backyardhive.com/",
+    "categoria": "apicultura"
+  },
+  {
+    "proveedor": "Melpom",
+    "vende": "Papelería",
+    "info": "Materiales reciclados y biodegradables; producción local; tarjeta de agradecimiento plantable",
+    "url": "https://melpom.com/",
+    "categoria": "oficina"
+  },
+  {
+    "proveedor": "Oakywood",
+    "vende": "Accesorios tecnológicos de oficina",
+    "info": "Fabricados con madera, corcho y lana; planta un árbol por cada producto vendido (más de 87,000 árboles)",
+    "url": "https://oakywood.shop/products/solid-wood-laptop-stand",
+    "categoria": "tecnología"
+  },
+  {
+    "proveedor": "Ecovative",
+    "vende": "Materiales de micelio",
+    "info": "Produce embalajes y cuero vegano a partir de hongos",
+    "url": "https://ecovative.com/",
+    "categoria": "tecnología"
+  },
+  {
+    "proveedor": "Pela Case",
+    "vende": "Fundas para móviles y AirPods",
+    "info": "Generan 30% menos emisiones de carbono y usan 34% menos agua que fundas convencionales",
+    "url": "https://pelacase.ca/",
+    "categoria": "fundas_moviles"
+  },
+  {
+    "proveedor": "EcoFlow",
+    "vende": "Generadores, paneles solares portátiles y cargadores",
+    "info": "Funcionan con energías renovables para uso en cualquier lugar",
+    "url": "https://es.ecoflow.com/",
+    "categoria": "energía"
+  },
+  {
+    "proveedor": "Terracycle",
+    "vende": "Programas de reciclaje",
+    "info": "Recicla productos difíciles como cepillos de dientes y cápsulas de café",
+    "url": "https://www.terracycle.com/",
+    "categoria": "reciclar"
+  },
+  {
+    "proveedor": "Guppyfriend",
+    "vende": "Bolsas de lavado",
+    "info": "Reduce la liberación de microplásticos al lavar ropa sintética",
+    "url": "https://guppyfriend.com/",
+    "categoria": "reciclar"
+  },
+  {
+    "proveedor": "WWF",
+    "vende": "Peluches",
+    "info": "Ofrece peluches y materiales educativos; apoya conservación de especies",
+    "url": "https://tienda.wwf.es/adopta",
+    "categoria": "juguetes"
+  },
+  {
+    "proveedor": "A Toy Garden",
+    "vende": "Juguetes para niños",
+    "info": "Instrumentos de madera, lápices de cera de abeja y pinturas faciales naturales",
+    "url": "https://atoygarden.com/",
+    "categoria": "juguetes"
+  },
+  {
+    "proveedor": "Green Toys",
+    "vende": "Juguetes reciclados",
+    "info": "Fabricados con plástico reciclado de botellas de leche; seguros y duraderos",
+    "url": "https://www.greentoys.com/",
+    "categoria": "juguetes"
+  },
+  {
+    "proveedor": "Conscious Craft",
+    "vende": "Kits creativos",
+    "info": "Herramientas de jardín, kits de exploración y materiales reciclados para manualidades",
+    "url": "https://consciouscraft.uk/",
+    "categoria": "juguetes"
+  },
+  {
+    "proveedor": "Uncommon Goods",
+    "vende": "Regalos sostenibles",
+    "info": "Productos artesanales y reciclados; apoya pequeños productores",
+    "url": "https://www.uncommongoods.com/",
+    "categoria": "regalos"
+  },
+  {
+    "proveedor": "Wigglywoos",
+    "vende": "Accesorios veganos para mascotas",
+    "info": "Usa cáñamo y cuero de corcho vegano; producción sostenible en pequeñas cantidades",
+    "url": "https://www.wigglywoos.com/password",
+    "categoria": "accersorios_mascotas"
+  },
+  {
+    "proveedor": "Harry Barker",
+    "vende": "Juguetes y accesorios para perros",
+    "info": "Fabricados con materiales sostenibles como hilos reciclados y botellas de plástico recicladas",
+    "url": "https://harrybarker.com/products/cotton-rope-tug-and-toss-dog-toy?_pos=46&_sid=73f878b1f&_ss=r",
+    "categoria": "juguetes_mascotas"
+  },
+  {
+    "proveedor": "Shameless Pets",
+    "vende": "Snacks para mascotas",
+    "info": "Hechos con al menos 25% de ingredientes reaprovechados; empaques PCR y producción con energía solar",
+    "url": "https://shamelesspets.com/",
+    "categoria": "comida_mascotas"
+  },
+  {
+    "proveedor": "Nomad Coffee",
+    "vende": "Café sostenible",
+    "info": "Trabaja directamente con productores; publica informes de transparencia sobre precios y relaciones",
+    "url": "https://nomadcoffee.es/",
+    "categoria": "comida"
+  },
+  {
+    "proveedor": "Pulp Pantry",
+    "vende": "Chips crujientes",
+    "info": "Usa pulpa de vegetales sobrante de zumos; combate el desperdicio de alimentos",
+    "url": "https://pulppantry.com/",
+    "categoria": "comida"
+  },
+  {
+    "proveedor": "Herbivorous Butcher",
+    "vende": "Carne vegana",
+    "info": "Gestiona refugio de animales de granja; financia con venta de productos y merchandising",
+    "url": "https://www.theherbivorousbutcher.com/",
+    "categoria": "comida"
+  },
+  {
+    "proveedor": "Alter Eco",
+    "vende": "Chocolate orgánico",
+    "info": "Certificado Fair Trade; empaques compostables",
+    "url": "https://www.alterecofoods.com/",
+    "categoria": "comida"
+  },
+  {
+    "proveedor": "Iwas",
+    "vende": "Cristalería",
+    "info": "Convierte botellas de vidrio usadas en vasos reutilizables",
+    "url": "https://iwasproducts.com/en-eu",
+    "categoria": "vasos"
+  },
+  {
+    "proveedor": "Hydro Flask",
+    "vende": "Botellas reutilizables",
+    "info": "Botellas de acero inoxidable duraderas; promueve reducción de plásticos de un solo uso",
+    "url": "https://www.hydroflask.com/",
+    "categoria": "vasos"
+  },
+  {
+    "proveedor": "FinalStraw",
+    "vende": "Pajitas",
+    "info": "De acero inoxidable plegable con carcasa y cepillo de limpieza",
+    "url": "https://finalstraw.com/",
+    "categoria": "utensilios"
+  },
+  {
+    "proveedor": "Bee’s Wrap",
+    "vende": "Envolturas reutilizables",
+    "info": "Alternativa al plástico; hechas con cera de abeja y algodón orgánico",
+    "url": "https://www.beeswrap.com/",
+    "categoria": "envase"
+  }
+],
+"consumo_responsable": [
+    {
+      "categoria": "comida",
+      "consejos": [
+        "Comprar productos locales para reducir la huella de carbono asociada con el transporte.",
+        "Optar por alimentos orgánicos que no utilicen pesticidas ni fertilizantes químicos.",
+        "Reducir el consumo de carne y optar por alternativas basadas en plantas.",
+        "Apoyar a agricultores locales y mercados de agricultores.",
+        "Reducir el desperdicio de alimentos planificando comidas y almacenando adecuadamente.",
+        "Evitar el desperdicio de alimentos donando lo que no se vaya a consumir."
+      ]
+    },
+    {
+      "categoria": "hogar",
+      "consejos": [
+        "Utilizar productos de limpieza ecológicos y biodegradables.",
+        "Elegir productos de limpieza sin químicos agresivos ni contaminantes.",
+        "Reducir el consumo de agua en el hogar instalando dispositivos de bajo flujo.",
+        "Reducir el consumo de agua durante el baño y el lavado de ropa.",
+        "Utilizar sistemas de recolección de agua de lluvia para regar jardines y huertos.",
+        "Utilizar lámparas LED de bajo consumo energético en el hogar.",
+        "Hacer un uso responsable de la calefacción y el aire acondicionado."
+      ]
+    },
+    {
+      "categoria": "compras",
+      "consejos": [
+        "Utilizar bolsas reutilizables en lugar de bolsas de plástico de un solo uso.",
+        "Preferir productos con envases reciclables o biodegradables.",
+        "Comprar productos duraderos en lugar de productos de un solo uso.",
+        "Comprar productos hechos con materiales reciclados.",
+        "Evitar comprar productos con exceso de embalaje.",
+        "Consumir menos productos desechables como toallas de papel.",
+        "Utilizar alternativas ecológicas al plástico como utensilios de bambú o acero inoxidable.",
+        "Comprar muebles de madera certificada como sostenible.",
+        "Optar por libros electrónicos o bibliotecas en lugar de comprar libros nuevos."
+      ]
+    },
+    {
+      "categoria": "energia",
+      "consejos": [
+        "Utilizar energía renovable en el hogar, como paneles solares.",
+        "Ahorrar energía apagando luces y electrodomésticos cuando no se usan.",
+        "Reducir el consumo de energía apagando dispositivos electrónicos.",
+        "Optar por productos electrónicos y electrodomésticos de alta eficiencia energética.",
+        "Elegir electrodomésticos con etiquetas de eficiencia energética.",
+        "Participar en programas de reciclaje de electrónicos para desecharlos adecuadamente."
+      ]
+    },
+    {
+      "categoria": "moda",
+      "consejos": [
+        "Comprar ropa de segunda mano en tiendas de caridad o mercados de pulgas.",
+        "Evitar la compra de moda que promueva el trabajo infantil o condiciones injustas.",
+        "Utilizar productos de higiene personal biodegradables.",
+        "Rechazar productos con microplásticos en su composición.",
+        "Optar por productos de cuidado personal sin ingredientes tóxicos.",
+        "Comprar juguetes hechos con materiales seguros y sostenibles."
+      ]
+    },
+    {
+      "categoria": "etica",
+      "consejos": [
+        "Elegir empresas y marcas que tengan políticas transparentes y éticas.",
+        "Apoyar empresas que promuevan prácticas laborales justas y seguras.",
+        "Apoyar a empresas comprometidas con la conservación ambiental.",
+        "Comprar productos certificados como comercio justo.",
+        "Apoyar a pequeñas empresas locales en lugar de grandes corporaciones.",
+        "Elegir opciones de turismo sostenible al viajar.",
+        "Educar a otros sobre la importancia del consumo responsable y sostenible.",
+        "Participar en iniciativas comunitarias de limpieza y conservación."
+      ]
+    },
+    {
+      "categoria": "reciclaje",
+      "consejos": [
+        "Reciclar papel, plástico, vidrio y otros materiales en casa.",
+        "Compartir o intercambiar objetos en lugar de comprar nuevos.",
+        "Reparar y dar mantenimiento a los productos en lugar de desecharlos.",
+        "Reutilizar frascos de vidrio y recipientes para almacenar alimentos.",
+        "Hacer compostaje con residuos orgánicos para fertilizar el suelo.",
+        "Reutilizar y reciclar materiales de construcción en renovaciones."
+      ]
+    }
+  ],
+  "manualidades": [
+    {
+    "botellas": [
+      {
+        "nombre": "Maceta colgante",
+        "materiales": ["Botella", "Tijeras", "Cuerda", "Tierra", "Planta"],
+        "informacion": "Corta la botella, haz orificios para la cuerda y agrega tierra con una planta pequeña.",
+        "url": "https://www.youtube.com/shorts/yU5sX96f9Po?feature=share"
+      },
+      {
+        "nombre": "Portalápices",
+        "materiales": ["Botella", "Tijeras", "Pintura acrílica"],
+        "informacion": "Corta la base de la botella, lija bordes y pinta con colores llamativos o temáticos.",
+        "url": "https://www.youtube.com/shorts/g1b3v-Po_40?feature=share"
+      },
+      {
+        "nombre": "Regadera casera",
+        "materiales": ["Botella con tapa", "Aguja o clavo"],
+        "informacion": "Haz pequeños orificios en la tapa con una aguja caliente y úsala para regar plantas.",
+        "url": "https://www.youtube.com/shorts/AlIQGoZ45Ao?feature=share"
+      },
+      {
+        "nombre": "Lámpara decorativa",
+        "materiales": ["Botella", "Luces LED", "Cúter","Papel", "Cuerda"],
+        "informacion": "Haz una abertura para introducir luces LED y decora con pintura o papel translúcido.",
+        "url": "https://www.youtube.com/shorts/t86QjBxIR8w?feature=share"
+      },
+      {
+        "nombre": "Organizador de escritorio",
+        "materiales": ["Varias botellas", "Cuter","Cuerda","Decoraciones"],
+        "informacion": "Corta botellas a distintas alturas y únelas con silicona para crear compartimentos.",
+        "url": "https://www.youtube.com/shorts/tSemPshvRgQ?feature=share"
+      },
+      {
+        "nombre": "Comedero para aves",
+        "materiales": ["Botella", "Palitos", "Semillas","Pintura","Cuerda"],
+        "informacion": "Haz orificios, inserta palitos como perchas y llena con semillas para las aves.",
+        "url": "https://www.youtube.com/shorts/nIjBKDH3nwM?feature=share"
+      },
+      {
+        "nombre": "Alcancía",
+        "materiales": ["Botella", "Cúter", "Pintura","Papel"],
+        "informacion": "Haz una ranura para monedas y decora con pintura o papel adhesivo.",
+        "url": "https://www.youtube.com/shorts/BNk_FPl4bM0?feature=share"
+      },
+      {
+        "nombre": "Juguete reciclado (auto)",
+        "materiales": ["Botella", "Tapas", "Palitos de brocheta"],
+        "informacion": "Inserta palitos como ejes para las tapas y decora el auto reciclado.",
+        "url": "https://www.youtube.com/shorts/9DFhO6cypbY?feature=share"
+      },
+      {
+        "nombre": "Flores decorativas",
+        "materiales": ["Botellas", "Pintura", "Tijeras"],
+        "informacion": "Corta la base formando pétalos, píntalos y arma flores decorativas.",
+        "url": "https://www.youtube.com/shorts/SFFhjd_MrBE?feature=share"
+      },
+      {
+        "nombre": "Escoba reciclada",
+        "materiales": ["Varias botellas", "Palo", "Cinta"],
+        "informacion": "Corta botellas en tiras largas para formar cerdas y fíjalas a un palo firme.",
+        "url": "https://youtu.be/W6RiwfuHn0Q"
+      }
+    ]
+  }
+],
+    "carton": [
+      {
+        "nombre": "Caja organizadora",
+        "materiales": ["Caja", "Papel decorativo", "Pegamento"],
+        "informacion": "Refuerza esquinas internas con tiras de cartón y forra con papel decorativo o tela.",
+        "url": "https://www.youtube.com/shorts/PHZUGzUlhi0?feature=share"
+      },
+      {
+        "nombre": "Casa para mascotas",
+        "materiales": ["Caja grande", "Cúter", "Tela"],
+        "informacion": "Corta una entrada y ventanas, refuerza la base y decora como casita.",
+        "url": "https://youtu.be/J0x-k8E6fCA"
+      },
+      {
+        "nombre": "Marco de fotos",
+        "materiales": ["Cartón", "Silicona", "Pintura"],
+        "informacion": "Recorta dos piezas, pega la foto en la base y añade un marco decorado.",
+        "url": "https://www.youtube.com/shorts/OfRskqgh46U?feature=share"
+      },
+      {
+        "nombre": "Juguete educativo",
+        "materiales": ["Cartón", "Plumones"],
+        "informacion": "Dibuja y recorta letras, números o figuras para rompecabezas o tarjetas didácticas.",
+        "url": "https://www.youtube.com/shorts/tb62l6ezzgQ?feature=share"
+      },
+      {
+        "nombre": "Estante pequeño",
+        "materiales": ["Cartón grueso", "Silicona"],
+        "informacion": "Diseña una repisa con varios niveles, refuerza uniones y decora.",
+        "url": "https://www.youtube.com/shorts/5cY59-lwIVw?feature=share"
+      },
+      {
+        "nombre": "Letras decorativas",
+        "materiales": ["Cartón", "Cúter", "Pintura"],
+        "informacion": "Recorta letras grandes, arma en 3D con varias capas y decora.",
+        "url": "https://youtu.be/e4bSFgG7e78"
+      },
+      {
+        "nombre": "Caja de regalo",
+        "materiales": ["Cartón", "Cinta"],
+        "informacion": "Dobla el cartón formando base y tapa, refuerza esquinas y decora.",
+        "url": "https://www.youtube.com/shorts/QlKyhIfR9GU?feature=share"
+      },
+      {
+        "nombre": "Calendario",
+        "materiales": ["Cartón", "Hojas impresas"],
+        "informacion": "Crea una base firme y pega hojas con los meses, añade espacio para notas.",
+        "url": "https://www.youtube.com/shorts/x1c9X8u0nWc?feature=share"
+      },
+      {
+        "nombre": "Maqueta",
+        "materiales": ["Cartón", "Pegamento", "Palos"],
+        "informacion": "Diseña, recorta piezas y únelas para construir casas, edificios o paisajes.",
+        "url": "https://www.youtube.com/shorts/YbQCq88Htpg?feature=share"
+      },
+      {
+        "nombre": "Porta revistas",
+        "materiales": ["Caja", "Tijeras", "Pinturas", "Rollos de papel"],
+        "informacion": "Corta un lado en diagonal para acceso fácil, refuerza la base y decora.",
+        "url": "https://www.youtube.com/shorts/WX_TF4HRWGs?feature=share"
+      }
+    ],
+    "latas": [
+      {
+        "nombre": "Portalápices",
+        "materiales": ["Lata", "Pintura", "Lija (opcional)"],
+        "informacion": "Lava la lata, retira etiquetas, lija bordes y pinta o decora con cuerda, tela o papel.",
+        "url": "https://www.youtube.com/shorts/1DcuOv2Vzsc?feature=share"
+      },
+      {
+        "nombre": "Macetero",
+        "materiales": ["Lata", "Tierra", "Planta", "Clavo", "Papel"],
+        "informacion": "Haz agujeros en la base para drenaje, decora el exterior y agrega tierra con una planta.",
+        "url": "https://www.youtube.com/shorts/TSP59Cx-ltU?feature=share"
+      },
+      {
+        "nombre": "Lámpara perforada",
+        "materiales": ["Lata", "Clavo", "Martillo", "Luz LED"],
+        "informacion": "Dibuja un diseño, perfora siguiendo el patrón y coloca una luz LED dentro.",
+        "url": "https://www.youtube.com/shorts/TiOD9AL_R4g?feature=share"
+      },
+      {
+        "nombre": "Porta velas",
+        "materiales": ["Lata", "Vela", "Pintura o cuerda"],
+        "informacion": "Decora la lata y coloca una vela dentro; puedes hacer orificios para efectos de luz.",
+        "url": "https://www.youtube.com/shorts/ZZ9eXPZXHao?feature=share"
+      },
+      {
+        "nombre": "Organizador múltiple",
+        "materiales": ["Varias latas", "Silicona caliente", "Pintura"],
+        "informacion": "Une varias latas en forma de panal con silicona y píntalas para un acabado uniforme.",
+        "url": "https://www.youtube.com/shorts/k7uVrUIxA-g?feature=share"
+      },
+      {
+        "nombre": "Campana decorativa",
+        "materiales": ["Lata", "Cuerda", "Pintura"],
+        "informacion": "Haz un agujero en la parte superior, pasa una cuerda y cuélgala; decora el exterior.",
+        "url": "https://www.youtube.com/shorts/ZK5SnIQZd7A?feature=share"
+      },
+      {
+        "nombre": "Instrumento musical (maraca)",
+        "materiales": ["Lata", "Pelotas", "Cinta adhesiva","Cuerdas"],
+        "informacion": "Llena la lata con arroz o semillas, cierra bien y decora para usar como maraca.",
+        "url": "https://www.youtube.com/shorts/tL9t-prwOj8?feature=share"
+      },
+      {
+        "nombre": "Jarrón",
+        "materiales": ["Lata", "Pintura", "Barniz (opcional)"],
+        "informacion": "Pinta la lata con colores decorativos, aplica barniz si deseas y agrega flores.",
+        "url": "https://www.youtube.com/shorts/VM3lrjkjdpU?feature=share"
+      },
+      {
+        "nombre": "Farol",
+        "materiales": ["Lata", "Vela o luz LED", "Clavo"],
+        "informacion": "Haz perforaciones decorativas y coloca una vela o luz dentro para efectos visuales.",
+        "url": "https://youtu.be/Qe7Z9EJoyC8"
+      },
+      {
+        "nombre": "Porta utensilios",
+        "materiales": ["Lata", "Pintura (opcional)"],
+        "informacion": "Lava la lata y úsala directamente o decórala para organizar utensilios o herramientas.",
+        "url": "https://youtu.be/r6arXupZsE0"
+      }
+    ],
+    "vidrio": [
+      {
+        "nombre": "Frascos decorativos",
+        "materiales": ["Frascos de vidrio", "Pintura", "Cuerda o tela"],
+        "informacion": "Lava el frasco, retira etiquetas, píntalo y decóralo con cuerda, tela o encaje.",
+        "url": "https://www.youtube.com/shorts/DLIShlvHi7U?feature=share"
+      },
+      {
+        "nombre": "Velas artesanales",
+        "materiales": ["Frasco de vidrio", "Cera", "Mecha"],
+        "informacion": "Derrite cera a baño maría, coloca la mecha y vierte la cera líquida en el frasco.",
+        "url": "https://www.youtube.com/shorts/g6O8LdVzQEY?feature=share"
+      },
+      {
+        "nombre": "Lámparas",
+        "materiales": ["Botella o frasco", "Luces LED"],
+        "informacion": "Introduce luces LED en el envase limpio y decora si deseas para difuminar la luz.",
+        "url": "https://www.youtube.com/shorts/H03gcErCHNY?feature=share"
+      },
+      {
+        "nombre": "Terrarios",
+        "materiales": ["Frasco o recipiente de vidrio", "Tierra", "Piedras", "Plantas"],
+        "informacion": "Coloca piedras para drenaje, luego tierra y plantas pequeñas para un terrario interior.",
+        "url": "https://www.youtube.com/shorts/zWzFdlOTEiM?feature=share"
+      },
+      {
+        "nombre": "Centros de mesa",
+        "materiales": ["Frascos", "Flores", "Velas o arena"],
+        "informacion": "Llena frascos con flores, velas o arena de colores para decoración de eventos.",
+        "url": "https://www.youtube.com/shorts/2RkyH2zymVQ?feature=share"
+      },
+      {
+        "nombre": "Dispensadores",
+        "materiales": ["Frasco", "Tapa con dosificador"],
+        "informacion": "Adapta una tapa con bomba dosificadora para jabón líquido, shampoo o detergente.",
+        "url": "https://youtu.be/KE1uMFY7a0Y"
+      },
+      {
+        "nombre": "Floreros",
+        "materiales": ["Botellas o frascos", "Pintura (opcional)"],
+        "informacion": "Usa el vidrio tal cual o decóralo con pintura y agrega flores naturales o artificiales.",
+        "url": "https://www.youtube.com/shorts/etAIGyMYjVQ?feature=share"
+      },
+      {
+        "nombre": "Porta especias",
+        "materiales": ["Frascos pequeños", "Etiquetas"],
+        "informacion": "Llena frascos con especias y etiquétalos; puedes perforar la tapa para dosificar.",
+        "url": "https://youtu.be/kma06EdEF2U"
+      },
+      {
+        "nombre": "Decoración vintage",
+        "materiales": ["Frascos o botellas", "Pintura mate o envejecida"],
+        "informacion": "Aplica pintura en tonos neutros o desgastados y lija algunas zonas para efecto antiguo.",
+        "url": "https://www.youtube.com/shorts/IM6a9AFibr8?feature=share"
+      }
+    ],
+    "papel_reciclado": [
+      {
+        "nombre": "Tarjetas",
+        "materiales": ["Papel reciclado", "Tijeras", "Pegamento", "Plumones"],
+        "informacion": "Corta el papel en forma de tarjeta doblada y decora con dibujos, recortes o mensajes personalizados.",
+        "url": ""
+      },
+      {
+        "nombre": "Flores",
+        "materiales": ["Papel reciclado", "Tijeras", "Pegamento"],
+        "informacion": "Recorta pétalos, dóblalos o enróllalos y únelos para formar flores decorativas.",
+        "url": ""
+      },
+      {
+        "nombre": "Guirnaldas",
+        "materiales": ["Papel", "Hilo o cuerda", "Pegamento"],
+        "informacion": "Recorta figuras y pégalas sobre un hilo para colgar en paredes o ventanas.",
+        "url": ""
+      },
+      {
+        "nombre": "Cuadernos",
+        "materiales": ["Hojas recicladas", "Cartón", "Hilo o grapas"],
+        "informacion": "Junta hojas recicladas, crea portada con cartón y únelas con grapas o hilo.",
+        "url": ""
+      },
+      {
+        "nombre": "Sobres",
+        "materiales": ["Papel reciclado", "Pegamento"],
+        "informacion": "Recorta el papel en forma de sobre, dobla pestañas y pega; decora si deseas.",
+        "url": ""
+      },
+      {
+        "nombre": "Decoraciones",
+        "materiales": ["Papel reciclado", "Tijeras", "Pegamento"],
+        "informacion": "Crea figuras decorativas como estrellas o formas temáticas para colgar o pegar.",
+        "url": ""
+      },
+      {
+        "nombre": "Origami",
+        "materiales": ["Papel reciclado"],
+        "informacion": "Dobla el papel siguiendo figuras como aves, flores o cajas sin necesidad de pegamento.",
+        "url": ""
+      },
+      {
+        "nombre": "Collage",
+        "materiales": ["Papel reciclado", "Revistas", "Pegamento"],
+        "informacion": "Recorta imágenes y texturas y pégalas sobre una base para crear composiciones artísticas.",
+        "url": ""
+      },
+      {
+        "nombre": "Invitaciones",
+        "materiales": ["Papel reciclado", "Plumones", "Decoraciones"],
+        "informacion": "Diseña invitaciones personalizadas para eventos y decóralas con detalles únicos.",
+        "url": ""
+      },
+      {
+        "nombre": "Bolsas",
+        "materiales": ["Papel reciclado resistente", "Pegamento", "Cuerda"],
+        "informacion": "Dobla y pega el papel formando una bolsa. Refuerza la base y añade asas con cuerda o tiras de papel. Perfectas como alternativa ecológica.",
+        "url": ""
+      }
+    ],
+    "materiales_reciclables": [
+      {
+        "nombre": "Porta celular con rollo de papel higiénico",
+        "materiales": ["Tubo de cartón", "Tijeras", "Pintura", "Cartón extra"],
+        "informacion": "Haz un corte horizontal en el tubo para el celular, agrega soportes laterales y decora.",
+        "url": ""
+      },
+      {
+        "nombre": "Organizador de cables",
+        "materiales": ["Tubos de cartón", "Pintura o papel decorativo"],
+        "informacion": "Decora los tubos y enrolla cables dentro; puedes etiquetarlos según el uso.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta velas con frascos pequeños",
+        "materiales": ["Frascos", "Velas", "Arena", "Piedras o sal"],
+        "informacion": "Coloca arena o piedras en el frasco para fijar la vela y decora el exterior.",
+        "url": ""
+      },
+      {
+        "nombre": "Cuadro decorativo con tapas",
+        "materiales": ["Tapas de botellas", "Cartón", "Pegamento", "Pintura"],
+        "informacion": "Diseña un patrón en cartón y pega tapas; píntalas para un acabado uniforme.",
+        "url": ""
+      },
+      {
+        "nombre": "Reloj de pared reciclado",
+        "materiales": ["Cartón", "Mecanismo de reloj", "Pintura", "Marcadores"],
+        "informacion": "Corta una base circular, decora con números y coloca el mecanismo en el centro.",
+        "url": ""
+      },
+      {
+        "nombre": "Llavero con materiales reciclados",
+        "materiales": ["Tapas", "Cuerda o aro metálico", "Pintura"],
+        "informacion": "Decora tapas, haz un orificio y coloca cuerda o aro para personalizar llaveros.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta llaves de pared",
+        "materiales": ["Cartón grueso o madera reciclada", "Ganchos", "Silicona"],
+        "informacion": "Crea una base resistente, fija ganchos y decora para organizar llaves en la entrada.",
+        "url": ""
+      },
+      {
+        "nombre": "Juguete con cajas pequeñas",
+        "materiales": ["Cajas", "Pintura", "Pegamento"],
+        "informacion": "Une cajas para formar casas, robots o vehículos y decora con pintura o papel.",
+        "url": ""
+      },
+      {
+        "nombre": "Lámpara con cucharas plásticas",
+        "materiales": ["Botella", "Cucharas plásticas", "Silicona", "Luz LED"],
+        "informacion": "Corta cucharas y pégalas alrededor de la botella en capas; coloca luz dentro.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta fotos con pinzas",
+        "materiales": ["Pinzas", "Cuerda", "Base de cartón o madera"],
+        "informacion": "Fija cuerda sobre una base y usa pinzas para sujetar fotos o notas.",
+        "url": ""
+      },
+      {
+        "nombre": "Bandeja con cartón",
+        "materiales": ["Cartón", "Pegamento", "Pintura o papel decorativo"],
+        "informacion": "Corta una base rectangular, añade bordes laterales, refuerza y decora.",
+        "url": ""
+      },
+      {
+        "nombre": "Decoración con CDs viejos",
+        "materiales": ["CDs", "Pegamento", "Cuerda o hilo"],
+        "informacion": "Cuélgalos para reflejar luz o úsalos como base decorada con pintura o papel.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta maquillaje",
+        "materiales": ["Cajas", "Cartón", "Tela o papel decorativo"],
+        "informacion": "Divide en compartimentos y forra con tela o papel para organizar productos.",
+        "url": ""
+      },
+      {
+        "nombre": "Móvil decorativo",
+        "materiales": ["Cartón", "Hilo", "Figuras decorativas"],
+        "informacion": "Recorta figuras y cuélgalas desde una base superior con temáticas específicas.",
+        "url": ""
+      },
+      {
+        "nombre": "Lapicero múltiple",
+        "materiales": ["Tubos de cartón", "Base de cartón", "Silicona"],
+        "informacion": "Pega varios tubos sobre una base firme y juega con distintas alturas.",
+        "url": ""
+      },
+      {
+        "nombre": "Espejo decorativo con tapas",
+        "materiales": ["Espejo", "Tapas", "Pegamento"],
+        "informacion": "Pega tapas alrededor del espejo formando un marco decorativo.",
+        "url": ""
+      },
+      {
+        "nombre": "Organizador de cajones",
+        "materiales": ["Cartón", "Tijeras"],
+        "informacion": "Corta tiras de cartón y forma divisiones internas ajustadas al tamaño de objetos.",
+        "url": ""
+      },
+      {
+        "nombre": "Juguete tipo rompecabezas",
+        "materiales": ["Cartón", "Tijeras", "Plumones"],
+        "informacion": "Dibuja una imagen, recórtala en piezas y mézclalas para un rompecabezas educativo.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta libros reciclado",
+        "materiales": ["Cartón grueso", "Pegamento"],
+        "informacion": "Diseña soportes laterales tipo L para mantener libros en posición vertical.",
+        "url": ""
+      },
+      {
+        "nombre": "Lámpara con papel reciclado",
+        "materiales": ["Papel reciclado", "Pegamento", "Estructura base", "Luz LED"],
+        "informacion": "Cubre una estructura con papel y pegamento, deja secar y coloca luz dentro.",
+        "url": ""
+      }
+    ],
+    "faciles": [
+      {
+        "nombre": "Jardín vertical con botellas",
+        "materiales": ["Botellas", "Cuerda", "Tierra", "Plantas"],
+        "informacion": "Corta las botellas horizontalmente, haz orificios para colgarlas en fila y agrega tierra con plantas.",
+        "url": ""
+      },
+      {
+        "nombre": "Lámpara colgante con cartón",
+        "materiales": ["Cartón", "Pegamento", "Luz LED"],
+        "informacion": "Recorta piezas geométricas, arma una estructura tipo lámpara y coloca una luz en el interior.",
+        "url": ""
+      },
+      {
+        "nombre": "Organizador colgante con jeans viejos",
+        "materiales": ["Pantalón viejo", "Tijeras", "Hilo o silicona"],
+        "informacion": "Corta bolsillos y fíjalos sobre una base para guardar objetos pequeños.",
+        "url": ""
+      },
+      {
+        "nombre": "Cuadro con papel enrollado",
+        "materiales": ["Papel reciclado", "Pegamento", "Base de cartón"],
+        "informacion": "Enrolla tiras de papel y pégalas formando patrones o figuras decorativas.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta velas con cáscaras de naranja",
+        "materiales": ["Cáscaras", "Vela"],
+        "informacion": "Vacía la naranja, haz diseños en la cáscara y coloca una vela dentro para aroma natural.",
+        "url": ""
+      },
+      {
+        "nombre": "Estante con cajas de madera recicladas",
+        "materiales": ["Cajas", "Clavos o silicona"],
+        "informacion": "Apila o fija cajas en la pared para crear un estante; puedes pintarlas o dejarlas rústicas.",
+        "url": ""
+      },
+      {
+        "nombre": "Lámpara con tubos de cartón",
+        "materiales": ["Tubos", "Pegamento", "Luz LED"],
+        "informacion": "Une varios tubos formando una estructura circular o abstracta y coloca luz dentro.",
+        "url": ""
+      },
+      {
+        "nombre": "Alfombra con retazos de tela",
+        "materiales": ["Tela reciclada", "Base de malla"],
+        "informacion": "Ata tiras de tela sobre una base hasta cubrirla completamente para formar una alfombra.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta plantas con latas colgantes",
+        "materiales": ["Latas", "Cuerda", "Plantas"],
+        "informacion": "Decora las latas, haz orificios y cuélgalas con plantas en jardines o balcones.",
+        "url": ""
+      },
+      {
+        "nombre": "Decoración con botellas pintadas",
+        "materiales": ["Botellas", "Pintura"],
+        "informacion": "Pinta botellas de distintos colores y úsalas como elementos decorativos o floreros.",
+        "url": ""
+      }
+    ],
+    "hogar": [
+      {
+        "nombre": "Organizador con cajas de zapatos",
+        "materiales": ["Cajas", "Papel decorativo"],
+        "informacion": "Forra las cajas y adapta divisiones internas para ropa o accesorios.",
+        "url": ""
+      },
+      {
+        "nombre": "Lámpara con cucharas y CD",
+        "materiales": ["CD", "Cucharas", "Silicona", "Luz"],
+        "informacion": "Usa el CD como base, pega cucharas en círculo y añade luz central.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta accesorios con ramas",
+        "materiales": ["Ramas", "Base firme"],
+        "informacion": "Limpia y fija ramas sobre una base para colgar collares o pulseras.",
+        "url": ""
+      },
+      {
+        "nombre": "Decoración de pared con rollos de cartón",
+        "materiales": ["Tubos de cartón", "Pegamento"],
+        "informacion": "Corta tubos en aros y únelos formando figuras geométricas o florales.",
+        "url": ""
+      },
+      {
+        "nombre": "Bolsos con bolsas plásticas",
+        "materiales": ["Bolsas", "Hilo o crochet"],
+        "informacion": "Corta tiras de bolsas y teje para formar bolsos reutilizables.",
+        "url": ""
+      },
+      {
+        "nombre": "Lámpara con botellas de vidrio",
+        "materiales": ["Botella", "Luz LED"],
+        "informacion": "Introduce luces dentro de la botella o adapta una base para decoración elegante.",
+        "url": ""
+      },
+      {
+        "nombre": "Juguete sensorial con botellas",
+        "materiales": ["Botella", "Agua", "Brillantina"],
+        "informacion": "Llena la botella con agua y brillantina para un juguete sensorial infantil.",
+        "url": ""
+      },
+      {
+        "nombre": "Organizador colgante con botellas",
+        "materiales": ["Botellas", "Cuerda"],
+        "informacion": "Corta y cuelga botellas para guardar objetos pequeños.",
+        "url": ""
+      },
+      {
+        "nombre": "Cuadro con tela reciclada",
+        "materiales": ["Tela", "Cartón"],
+        "informacion": "Forra una base con tela y crea composiciones decorativas.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta velas con papel endurecido",
+        "materiales": ["Papel", "Pegamento", "Molde"],
+        "informacion": "Aplica capas de papel con pegamento sobre un molde, deja secar y usa como base.",
+        "url": ""
+      },
+      {
+        "nombre": "Espejo con cartón reciclado",
+        "materiales": ["Cartón", "Espejo", "Pegamento"],
+        "informacion": "Crea un marco grueso con cartón y decóralo con texturas o pintura.",
+        "url": ""
+      },
+      {
+        "nombre": "Lámpara con cajas recicladas",
+        "materiales": ["Cajas", "Cúter", "Luz LED"],
+        "informacion": "Haz cortes decorativos en cajas y coloca luz interna.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta lápices con tubos decorados",
+        "materiales": ["Tubos", "Papel o pintura"],
+        "informacion": "Decora tubos y úsalos para organizar escritorio.",
+        "url": ""
+      },
+      {
+        "nombre": "Jardín en frascos colgantes",
+        "materiales": ["Frascos", "Cuerda", "Plantas"],
+        "informacion": "Cuelga frascos con plantas pequeñas para interiores.",
+        "url": ""
+      },
+      {
+        "nombre": "Decoración con corchos",
+        "materiales": ["Corchos", "Pegamento"],
+        "informacion": "Forma cuadros, bases o figuras decorativas con corchos.",
+        "url": ""
+      },
+      {
+        "nombre": "Caja fuerte casera (alcancía avanzada)",
+        "materiales": ["Caja", "Cartón", "Pegamento"],
+        "informacion": "Diseña compartimentos internos y una tapa segura para alcancía avanzada.",
+        "url": ""
+      },
+      {
+        "nombre": "Porta celular con gafas viejas",
+        "materiales": ["Gafas", "Silicona"],
+        "informacion": "Usa la forma de gafas para sostener el celular sobre una superficie.",
+        "url": ""
+      },
+      {
+        "nombre": "Lámpara con papel tipo origami",
+        "materiales": ["Papel", "Pegamento", "Luz LED"],
+        "informacion": "Dobla figuras de papel y arma una estructura luminosa.",
+        "url": ""
+      },
+      {
+        "nombre": "Organizador con latas y madera",
+        "materiales": ["Latas", "Base de madera"],
+        "informacion": "Fija latas sobre una base de madera para organizar herramientas o útiles.",
+        "url": ""
+      },
+      {
+        "nombre": "Mural con materiales mixtos",
+        "materiales": ["Cartón", "Plástico", "Papel", "Tela"],
+        "informacion": "Combina distintos materiales reciclados para crear una obra artística grande.",
+        "url": ""
+      }
+    ]
+}
+
+
+
