@@ -1,0 +1,331 @@
+/* 1. Global & Reset Styles */
+* { 
+    margin: 0; 
+    padding: 0; 
+    box-sizing: border-box; 
+}
+
+body {
+    font-family: 'Segoe UI', Arial, sans-serif; 
+    line-height: 1.6; 
+    background-color: #f4f4f4; 
+    color: #2c2c2c; 
+    display: flex; 
+    flex-direction: column;
+    align-items: center; 
+}
+
+/* 2. Navigation Bar */
+.navbar {
+    position: fixed; 
+    top: 0; 
+    width: 100%; 
+    height: 10%; 
+    background-color: #7eac80; /* verde natural */
+    display: flex; 
+    justify-content: space-between;
+    align-items: center; 
+    padding: 0 5%; 
+    z-index: 1000; 
+    box-shadow: 0 2px 10px rgba(0,0,0,0.1); 
+}
+
+.logo {
+    color: #fff; 
+    font-size: 2vw;
+    font-weight: bold; 
+}
+
+menu {
+    display: flex;
+    gap: 2%; /* separación entre enlaces */
+}
+
+.menu a {
+    color: #fff; 
+    
+    font-size: 25px;
+    text-decoration: none; 
+    font-weight: 500;
+    padding: 8px 15px; /* espacio interno para que parezca botón */
+    border-radius: 5px;
+    transition: all 0.3s ease;
+    background-color: transparent; /* fondo transparente por defecto */
+}
+
+.menu a:hover {
+    background-color: rgba(255,255,255,0.2); /* efecto suave al pasar el mouse */
+    color: #e8f5e9; /* verde muy claro */
+}
+.hamburguesa {
+    display: none; /* oculto en escritorio */
+    flex-direction: column;
+    cursor: pointer;
+    gap: 5px;
+}
+
+.hamburguesa span {
+    width: 25px;
+    height: 3px;
+    background-color: #fff;
+    border-radius: 2px;
+}
+
+.buscador {
+    display: flex;
+}
+
+.buscador input {
+    padding: 5% 10%; 
+    border-radius: 5px 0 0 5px; 
+    border: none; 
+    outline: none; 
+    width: 70%;
+}
+
+.buscador button {
+    padding: 5% 10%; 
+    border-radius: 0 5px 5px 0; 
+    border: none; 
+    background-color: #608062; 
+    color: white; 
+    cursor: pointer;
+}
+
+.portada {
+    position: relative; 
+    width: 100%; 
+    margin-top: 6%; /* Offset for fixed navbar */
+    background-color: #D7D5D4;
+}
+
+.portada img {
+    display: block; 
+    width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+}
+
+.portada-texto {
+    position: absolute; 
+    top: 20%; 
+    right: 10%; 
+    text-align: right; 
+    color: white;
+}
+
+.portada-texto h1 {
+    color: #5f7a61; 
+    font-size: clamp(100px, 4vw, 100px); 
+    text-shadow: 8px 4px 8px rgba(0,0,0,0.3); 
+    text-align: right;       
+    max-width: 40%;          
+    margin-left: auto;       
+    line-height: 1.4;   
+    margin-bottom: 5%;
+}
+
+.portada-texto h2 {
+    font-size: clamp(60px, 4vw, 40px); 
+    text-shadow: 8px 4px 8px rgba(0,0,0,0.3); 
+    text-align: right;       
+    max-width: 40%;          
+    margin-left: auto;       
+    line-height: 1.4;        
+}
+
+main {
+    width: 100%;
+    max-width: 90%;
+}
+
+section {
+    padding: 2% 2%;
+}
+
+.linea-separadora {
+    height: 20px;             
+    width: 100%;                
+    background-color: #506b51; 
+    margin: 1% auto;            
+    border-radius: 10px;      
+    opacity: 0.9;              
+}
+
+
+.presentacion-contenido {
+    background-color: #F4F4F4;
+    display: flex;
+    justify-content: space-between; 
+    align-items: flex-start;      
+    gap: 5%;                      
+    flex-wrap: wrap;                
+}
+.texto-info h3 {
+    font-size: 2.5vw; 
+    margin-bottom: 4%; 
+    max-width: 70%;      
+    text-align: left;
+    color: #618363; 
+    text-shadow: 8px 4px 8px rgba(0,0,0,0.3);
+}
+.texto-info {
+    font-size: 1.5vw; 
+    flex: 1;              /* ocupa espacio proporcional */
+    max-width: 45%;       /* limita ancho para que quede a la izquierda */
+    text-align: left;     /* asegura alineación del texto */
+    margin-bottom: 4%;
+}
+
+.objetivo-contenido {
+    display: flex;
+    justify-content: space-between; /* separa texto e imagen */
+    align-items: flex-start;
+    gap: 5%;
+    flex-wrap: wrap; /* en móvil se apilan */
+}
+
+.objetivo .texto-info {
+    flex: 1;
+    max-width: 50%; /* ocupa la mitad izquierda */
+    text-align: left;
+}
+
+.objetivo-imagen {
+    flex: 1;
+    max-width: 40%; /* ocupa la parte derecha */
+}
+
+.objetivo-imagen img {
+    width: 100%;
+    height: 100%;
+    border-radius: 10px;
+    box-shadow: 0 5px 15px rgba(0,0,0,0.2);
+}
+
+/* 6. Bot Features List */
+.bot-contenido {
+    display: flex;
+    justify-content: space-between; /* texto a la izquierda, carrusel a la derecha */
+    align-items: flex-start;
+    gap: 5%;
+    flex-wrap: wrap; /* en móvil se apilan */
+}
+
+.bot-info .texto-info {
+    flex: 1;
+    max-width: 50%;
+    text-align: left;
+}
+
+.bot-info ul {
+    list-style: none;
+    margin-top: 2%;
+}
+
+.bot-info li {
+    max-width: 70%;
+    font-size: 1.2vw;
+    padding: 1% 0;
+    padding-left: 3%;
+    position: relative;
+}
+
+.bot-info .carousel-container {
+    position: relative; 
+    flex: 1; 
+    max-width: 50%; 
+    height: 650px; 
+    border-radius: 20px; 
+    overflow: hidden; 
+    box-shadow: 0 10px 20px rgba(0,0,0,0.1);
+    margin-bottom: 2%;
+    margin-right: 5%;
+}
+
+.carousel-slide {
+    display: flex; 
+    width: 100%; 
+    height: 100%; 
+    transition: transform 0.5s ease-in-out; /* movimiento suave */
+}
+
+.carousel-slide img {
+    min-width: 100%; 
+    height: 100%; 
+    object-fit: cover; 
+}
+
+/* Botones */
+#prevBtn, #nextBtn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+    background-color: rgba(96,128,98,0.7); /* verde translúcido */
+    border: none;
+    color: white;
+    font-size: 2rem;
+    cursor: pointer;
+    padding: 10px;
+    border-radius: 50%;
+    z-index: 10;
+}
+
+#prevBtn { left: 10px; }
+#nextBtn { right: 10px; }
+
+.footer {
+    width: 100%;
+    background-color: #506b51; /* verde oscuro */
+    color: #fff;
+    text-align: center;
+    padding: 15px 0;
+    bottom: 0;
+    left: 0;
+    font-size: 1.2rem;
+    font-weight: bold;
+    box-shadow: 0 -2px 10px rgba(0,0,0,0.2);
+}
+
+
+/* 7. Responsive Design */
+@media (max-width: 768px) {
+    .menu {
+        display: none; /* ocultar enlaces por defecto */
+        flex-direction: column;
+        background-color: #2e7d32;
+        position: absolute;
+        top: 70px; /* debajo del navbar */
+        right: 0;
+        width: 60%;
+        padding: 10px;
+    }
+
+    .menu a {
+        margin: 10px 0;
+        color: #fff;
+    }
+
+    .hamburguesa {
+        display: flex; /* mostrar icono hamburguesa */
+    }
+
+    .menu.activo {
+        display: flex; /* mostrar menú cuando se active */
+    }
+    .texto-info h3 {
+        font-size: 5vw;
+    }
+
+    .texto-info p, .bot-info li {
+        font-size: 3.5vw;
+    }
+    .presentacion-contenido {
+        flex-direction: column; /* texto arriba, carrusel abajo */
+        align-items: center;
+    }
+
+    .texto-info, .carousel {
+        max-width: 90%; /* ocupan casi todo el ancho */
+    }
+}
