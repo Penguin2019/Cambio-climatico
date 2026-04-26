@@ -6,28 +6,95 @@ hamburguesa.addEventListener('click', () => {
   menu.classList.toggle('activo');
 });
 
-//carusel
-const slide = document.querySelector('.carousel-slide');
-const images = document.querySelectorAll('.carousel-slide img');
-const prevBtn = document.getElementById('prevBtn');
-const nextBtn = document.getElementById('nextBtn');
+// Carrusel circular robusto
+document.querySelectorAll(".carousel-container").forEach(container => {
+    const slide = container.querySelector(".carousel-slide");
+    const prevBtn = container.querySelector(".prevBtn");
+    const nextBtn = container.querySelector(".nextBtn");
 
-let index = 0;
+    let counter = 0;
+    const images = slide.querySelectorAll("img");
 
-function mostrarImagen(i) {
-    if (i < 0) {
-        index = images.length - 1;
-    } else if (i >= images.length) {
-        index = 0;
-    } else {
-        index = i;
+    // Función para obtener tamaño dinámico (mejor en responsive)
+    const getSize = () => images[0].getBoundingClientRect().width;
+
+    // Inicial
+    slide.style.transform = `translateX(${-getSize() * counter}px)`;
+    slide.style.transition = "transform 0.4s ease-in-out";
+
+    // Función para mover carrusel
+    const moveSlide = () => {
+        slide.style.transform = `translateX(${-getSize() * counter}px)`;
+    };
+
+    // Deshabilitar botones mientras se anima
+    const disableButtons = () => {
+        nextBtn.disabled = true;
+        prevBtn.disabled = true;
+    };
+    const enableButtons = () => {
+        nextBtn.disabled = false;
+        prevBtn.disabled = false;
+    };
+
+    slide.addEventListener("transitionend", enableButtons);
+
+    nextBtn.addEventListener("click", () => {
+        disableButtons();
+        counter++;
+        if (counter >= images.length) {
+            counter = 0; 
+        }
+        moveSlide();
+    });
+
+    prevBtn.addEventListener("click", () => {
+        disableButtons();
+        counter--;
+        if (counter < 0) {
+            counter = images.length - 1; 
+        }
+        moveSlide();
+    });
+
+    // Recalcular tamaño si la ventana cambia
+    window.addEventListener("resize", () => {
+        moveSlide();
+    });
+});
+
+
+function ejecutarBusqueda() {
+    const query = document.getElementById("searchInput").value.toLowerCase().trim();
+    if (!query) return;
+
+    // Selecciona h1, h2, h3 y p
+    const elementos = document.querySelectorAll("h1, h2, h3, p");
+    let found = false;
+
+    elementos.forEach(el => {
+        // Limpia estilos previos
+        el.style.backgroundColor = "";
+        el.style.color = "";
+
+        if (el.textContent.toLowerCase().includes(query)) {
+            el.style.backgroundColor = "#bbf1a2"; // resalta coincidencia
+            el.style.color = "#000";
+            el.scrollIntoView({ behavior: "smooth", block: "center" });
+            found = true;
+        }
+    });
+
+    if (!found) {
+        alert("No se encontraron coincidencias 🐧");
     }
-    slide.style.transform = `translateX(-${index * 100}%)`;
 }
 
-prevBtn.addEventListener('click', () => mostrarImagen(index - 1));
-nextBtn.addEventListener('click', () => mostrarImagen(index + 1));
 
-// Inicializar
-mostrarImagen(index);
+document.getElementById("searchBtn").addEventListener("click", ejecutarBusqueda);
 
+document.getElementById("searchInput").addEventListener("keyup", (event) => {
+    if (event.key === "Enter") {
+        ejecutarBusqueda();
+    }
+});
