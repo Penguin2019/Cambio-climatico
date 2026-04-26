@@ -27,6 +27,7 @@ intents.message_content = True
 bot = commands.Bot(command_prefix='!', intents=intents)
 session_client = dialogflow.SessionsClient()
 
+
 with open("informacion.json", "r", encoding="utf-8") as f:
     datos_json = json.load(f)
 
@@ -151,6 +152,7 @@ async def get_dato_curioso(tema):
     frase = random.choice(lista)
     return {"fulfillmentText": f"¡Claro! ¿Sabías que? {frase} 🌍🐧"}
 
+#Intent empresas verde
 async def get_alternativas_productos(categoria_producto):
     try:
         alternativas = datos_json["alternativas"]
@@ -193,6 +195,7 @@ async def get_alternativas_productos(categoria_producto):
         print(f"💥 ERROR CRÍTICO EN LA FUNCIÓN: {e}")
         return "Lo siento, tuve un problema al procesar la lista de productos. 🐧", []
 
+#Intent consejos
 async def get_consejo(tipo):
     try:
         lista_categorias = datos_json.get("consumo_responsable", [])
@@ -235,9 +238,10 @@ async def get_consejo(tipo):
                 print(f"Error API: {resp.status}") # Esto sale en tu terminal
                 return "❌ Error al calcular: verifica que las ciudades o el modo sean válidos. 🐧"
 
+#Intent manualidades con reciclados
 async def get_manualidad(tipo):
-    tipo = tipo.lower() 
-    lista = datos_json.get(tipo)
+    tipo = tipo.lower()
+    lista = datos_json["manualidades"].get(tipo) 
 
     if not lista:
         return {"fulfillmentText": "Lo siento, no encontré manualidades para ese tipo. 🐧"}
@@ -311,7 +315,7 @@ async def on_message(message):
         await message.channel.send(respuesta_dict["fulfillmentText"])
 
     elif intent_nombre == "get_alternativas_productos":
-        categoria_param = params.get("categoria_producto") # Usa el diccionario params que ya extrajiste arriba
+        categoria_param = params.get("categoria_producto")  
         
         if categoria_param:
             print("📦 Categoría detectada:", categoria_param)
