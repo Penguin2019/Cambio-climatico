@@ -20,9 +20,11 @@
             <a href="Bot.html">EcoPinguBot</a>
         </nav>
         <div class="buscador">
-            <input type="text" placeholder="Buscar...">
-            <button>  </button>
+            <input type="text" id="searchInput" placeholder="Buscar...">
+            <button id="searchBtn">Buscar</button>
         </div>
+
+        <div id="resultado"></div>
     </header>
 
     <!-- Contenido principal -->
@@ -44,6 +46,12 @@
                 <div class="texto-info">
                     <h3>¿Qué es EcoPingu?</h3>
                     <p>EcoPingu es una plataforma diseñada para compartir el conocimiento sobre contaminación y cuidado ambiental, además cuenta con un bot privado de Discord capaz de realizar diversas funciones para responder dudas del usuario relacionadas al tema. </p>
+                    <p>&nbsp;</p>
+                    <p>Usa nuestro bot de Discord instalando: 
+                    <a href="https://discord.com/oauth2/authorize?client_id=1492316299534008393&permissions=8&integration_type=0&scope=bot">
+                    Enlace de instalación
+                    </a>
+                </p>
                 </div>
                 <img src="imagenes/Fondo_EcoPingu.png" alt="Ilustración de fondo EcoPingu">
                 <div class="linea-separadora"></div>
@@ -62,7 +70,6 @@
                 <p>El cambio climático resulta un tema de gran importancia ya que sus consecuencias alteran los fenómenos meteorológicos, afectan el aumento del nivel del mar y la biodiversidad, desencadenando la pérdida de especies y alterando la vida en todo el planeta.</p>
             </div>
 
-            <!-- Imagen -->
             <div class="objetivo-imagen">
                 <img src="imagenes/cambio_climatico.png" alt="Ilustración sobre cambio climático">
                 <img src="imagenes/cambio_climatico2.png" alt="Ilustración sobre cambio climático">
@@ -70,12 +77,10 @@
         </div>
 
     <div class="linea-separadora"></div>
-</section>
 
-        <!-- Bot -->
+</section>
         <section class="bot-info">
             <div class="bot-contenido">
-                <!-- Texto + lista -->
                 <div class="texto-info">
                     <h3>Sobre EcoPingu Bot</h3>
                     <p>EcoPingu es un bot de Discord capaz de:</p>
@@ -89,23 +94,21 @@
                     </ul>
                 </div>
 
-                <!-- Carrusel -->
                 <div class="carousel-container">
                     <div class="carousel-slide">
-                        <img src="imagenes/EcopinguBot1.png" alt="EcoPingu Bot 1">
+                        <img src="imagenes/EcopinguBot1.jpg" alt="EcoPingu Bot 1">
                         <img src="imagenes/EcopinguBot2.jpg" alt="EcoPingu Bot 2">
-                        <img src="imagenes/EcopinguBot3.jpg" alt="EcoPingu Bot 3">
+                        <img src="imagenes/EcopinguBot3.png" alt="EcoPingu Bot 3">
                     </div>
-                    <button id="prevBtn">❮</button>
-                    <button id="nextBtn">❯</button>
+                    <button class="prevBtn">❮</button>
+                    <button class="nextBtn">❯</button>
+                    </div>
                 </div>
-            </div>
-
             <div class="linea-separadora"></div>
         </section>
     </main>
     <footer class="footer">
-        <p>EcoPingu    Instala tu bot: https://discord.com/oauth2/authorize?client_id=1492316299534008393&permissions=8&integration_type=0&scope=bot</p>
+        <p>EcoPingu</p>
     </footer>
     <script src="EcoPinguCarusel.js"></script>
 </body>
