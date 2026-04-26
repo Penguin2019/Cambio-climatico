@@ -550,8 +550,7 @@
       ]
     }
   ],
-  "manualidades": [
-    {
+  "manualidades": {
     "botellas": [
       {
         "nombre": "Maceta colgante",
@@ -612,8 +611,6 @@
         "materiales": ["Varias botellas", "Palo", "Cinta"],
         "informacion": "Corta botellas en tiras largas para formar cerdas y fíjalas a un palo firme.",
         "url": "https://youtu.be/W6RiwfuHn0Q"
-      }
-    ]
   }
 ],
     "carton": [
@@ -801,61 +798,61 @@
         "nombre": "Tarjetas",
         "materiales": ["Papel reciclado", "Tijeras", "Pegamento", "Plumones"],
         "informacion": "Corta el papel en forma de tarjeta doblada y decora con dibujos, recortes o mensajes personalizados.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/Mr6McBynNlk?feature=share"
       },
       {
         "nombre": "Flores",
         "materiales": ["Papel reciclado", "Tijeras", "Pegamento"],
         "informacion": "Recorta pétalos, dóblalos o enróllalos y únelos para formar flores decorativas.",
-        "url": ""
+        "url": "https://youtu.be/5S78SFNhwPQ"
       },
       {
         "nombre": "Guirnaldas",
         "materiales": ["Papel", "Hilo o cuerda", "Pegamento"],
         "informacion": "Recorta figuras y pégalas sobre un hilo para colgar en paredes o ventanas.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/88ruHjzPg_w?feature=share"
       },
       {
         "nombre": "Cuadernos",
         "materiales": ["Hojas recicladas", "Cartón", "Hilo o grapas"],
         "informacion": "Junta hojas recicladas, crea portada con cartón y únelas con grapas o hilo.",
-        "url": ""
+        "url": "https://youtu.be/YE33M1Xb0to"
       },
       {
         "nombre": "Sobres",
         "materiales": ["Papel reciclado", "Pegamento"],
         "informacion": "Recorta el papel en forma de sobre, dobla pestañas y pega; decora si deseas.",
-        "url": ""
+        "url": "https://youtu.be/cx9CiNmN7zw"
       },
       {
         "nombre": "Decoraciones",
         "materiales": ["Papel reciclado", "Tijeras", "Pegamento"],
         "informacion": "Crea figuras decorativas como estrellas o formas temáticas para colgar o pegar.",
-        "url": ""
+        "url": "https://youtu.be/Bi-tdFbiMzE?list=PLl7FoKWgpYmOQPZ6etcq_QFbsKvyoZqda"
       },
       {
         "nombre": "Origami",
         "materiales": ["Papel reciclado"],
         "informacion": "Dobla el papel siguiendo figuras como aves, flores o cajas sin necesidad de pegamento.",
-        "url": ""
+        "url": "https://youtu.be/gavY1UJ1j5s"
       },
       {
         "nombre": "Collage",
         "materiales": ["Papel reciclado", "Revistas", "Pegamento"],
         "informacion": "Recorta imágenes y texturas y pégalas sobre una base para crear composiciones artísticas.",
-        "url": ""
+        "url": "https://youtu.be/JWzTPF4rLaI"
       },
       {
         "nombre": "Invitaciones",
         "materiales": ["Papel reciclado", "Plumones", "Decoraciones"],
         "informacion": "Diseña invitaciones personalizadas para eventos y decóralas con detalles únicos.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/541XzjqLoEg?feature=share"
       },
       {
         "nombre": "Bolsas",
         "materiales": ["Papel reciclado resistente", "Pegamento", "Cuerda"],
         "informacion": "Dobla y pega el papel formando una bolsa. Refuerza la base y añade asas con cuerda o tiras de papel. Perfectas como alternativa ecológica.",
-        "url": ""
+        "url": "https://youtu.be/yOrR91qyGOA?list=PLMFoD59xc0kb9tH4UltTDp9Jowtu-Xmw3"
       }
     ],
     "materiales_reciclables": [
@@ -863,79 +860,79 @@
         "nombre": "Porta celular con rollo de papel higiénico",
         "materiales": ["Tubo de cartón", "Tijeras", "Pintura", "Cartón extra"],
         "informacion": "Haz un corte horizontal en el tubo para el celular, agrega soportes laterales y decora.",
-        "url": ""
+        "url": "https://youtu.be/MP_qCrK_PUw"
       },
       {
         "nombre": "Organizador de cables",
         "materiales": ["Tubos de cartón", "Pintura o papel decorativo"],
         "informacion": "Decora los tubos y enrolla cables dentro; puedes etiquetarlos según el uso.",
-        "url": ""
+        "url": "https://youtu.be/eh95l8zDTHY"
       },
       {
         "nombre": "Porta velas con frascos pequeños",
         "materiales": ["Frascos", "Velas", "Arena", "Piedras o sal"],
         "informacion": "Coloca arena o piedras en el frasco para fijar la vela y decora el exterior.",
-        "url": ""
+        "url": "https://youtu.be/CdsTWAVS-hs"
       },
       {
-        "nombre": "Cuadro decorativo con tapas",
-        "materiales": ["Tapas de botellas", "Cartón", "Pegamento", "Pintura"],
-        "informacion": "Diseña un patrón en cartón y pega tapas; píntalas para un acabado uniforme.",
-        "url": ""
+        "nombre": "Cuadro decorativo",
+        "materiales": ["Cartón", "Pegamento", "Pintura"],
+        "informacion": "Diseña un patrón en cartón y píntalas para un acabado uniforme.",
+        "url": "https://youtu.be/8xGyqaZWhiE"
       },
       {
         "nombre": "Reloj de pared reciclado",
         "materiales": ["Cartón", "Mecanismo de reloj", "Pintura", "Marcadores"],
         "informacion": "Corta una base circular, decora con números y coloca el mecanismo en el centro.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/__OVGT955-k?feature=share"
       },
       {
         "nombre": "Llavero con materiales reciclados",
         "materiales": ["Tapas", "Cuerda o aro metálico", "Pintura"],
         "informacion": "Decora tapas, haz un orificio y coloca cuerda o aro para personalizar llaveros.",
-        "url": ""
+        "url": "https://youtu.be/qcxYaprmugk"
       },
       {
         "nombre": "Porta llaves de pared",
         "materiales": ["Cartón grueso o madera reciclada", "Ganchos", "Silicona"],
         "informacion": "Crea una base resistente, fija ganchos y decora para organizar llaves en la entrada.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/MazZ_ULRYIo?feature=share"
       },
       {
         "nombre": "Juguete con cajas pequeñas",
         "materiales": ["Cajas", "Pintura", "Pegamento"],
         "informacion": "Une cajas para formar casas, robots o vehículos y decora con pintura o papel.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/d6Sto1x7Jw8?feature=share"
       },
       {
         "nombre": "Lámpara con cucharas plásticas",
         "materiales": ["Botella", "Cucharas plásticas", "Silicona", "Luz LED"],
         "informacion": "Corta cucharas y pégalas alrededor de la botella en capas; coloca luz dentro.",
-        "url": ""
+        "url": "https://youtu.be/WLCLRlbOZBo"
       },
       {
         "nombre": "Porta fotos con pinzas",
         "materiales": ["Pinzas", "Cuerda", "Base de cartón o madera"],
         "informacion": "Fija cuerda sobre una base y usa pinzas para sujetar fotos o notas.",
-        "url": ""
+        "url": "https://youtu.be/dEwSiws6PmQ"
       },
       {
         "nombre": "Bandeja con cartón",
         "materiales": ["Cartón", "Pegamento", "Pintura o papel decorativo"],
         "informacion": "Corta una base rectangular, añade bordes laterales, refuerza y decora.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/W5PV191ifJc?feature=share"
       },
       {
         "nombre": "Decoración con CDs viejos",
         "materiales": ["CDs", "Pegamento", "Cuerda o hilo"],
         "informacion": "Cuélgalos para reflejar luz o úsalos como base decorada con pintura o papel.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/nAPfRUZLNSw?feature=share"
       },
       {
         "nombre": "Porta maquillaje",
         "materiales": ["Cajas", "Cartón", "Tela o papel decorativo"],
         "informacion": "Divide en compartimentos y forra con tela o papel para organizar productos.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/RB4X0lqaP8M?feature=share"
       },
       {
         "nombre": "Móvil decorativo",
@@ -947,37 +944,37 @@
         "nombre": "Lapicero múltiple",
         "materiales": ["Tubos de cartón", "Base de cartón", "Silicona"],
         "informacion": "Pega varios tubos sobre una base firme y juega con distintas alturas.",
-        "url": ""
+        "url": "https://youtu.be/TOguXTiEtIg"
       },
       {
         "nombre": "Espejo decorativo con tapas",
         "materiales": ["Espejo", "Tapas", "Pegamento"],
         "informacion": "Pega tapas alrededor del espejo formando un marco decorativo.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/BJSuq_d4rpI?feature=share"
       },
       {
         "nombre": "Organizador de cajones",
         "materiales": ["Cartón", "Tijeras"],
         "informacion": "Corta tiras de cartón y forma divisiones internas ajustadas al tamaño de objetos.",
-        "url": ""
+        "url": "https://youtu.be/ka4Mm55Pq7s?list=PL8qwsWjXdD2id509Lt7wR9lSaH_5rnZzP"
       },
       {
         "nombre": "Juguete tipo rompecabezas",
         "materiales": ["Cartón", "Tijeras", "Plumones"],
         "informacion": "Dibuja una imagen, recórtala en piezas y mézclalas para un rompecabezas educativo.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/QHu7X0fg3y4?feature=share"
       },
       {
         "nombre": "Porta libros reciclado",
         "materiales": ["Cartón grueso", "Pegamento"],
         "informacion": "Diseña soportes laterales tipo L para mantener libros en posición vertical.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/bkuWDtg3XvQ?feature=share"
       },
       {
         "nombre": "Lámpara con papel reciclado",
         "materiales": ["Papel reciclado", "Pegamento", "Estructura base", "Luz LED"],
         "informacion": "Cubre una estructura con papel y pegamento, deja secar y coloca luz dentro.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/LdiSLxbaLAg?feature=share"
       }
     ],
     "faciles": [
@@ -985,61 +982,61 @@
         "nombre": "Jardín vertical con botellas",
         "materiales": ["Botellas", "Cuerda", "Tierra", "Plantas"],
         "informacion": "Corta las botellas horizontalmente, haz orificios para colgarlas en fila y agrega tierra con plantas.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/gBK63nmu8hQ?feature=share"
       },
       {
         "nombre": "Lámpara colgante con cartón",
         "materiales": ["Cartón", "Pegamento", "Luz LED"],
         "informacion": "Recorta piezas geométricas, arma una estructura tipo lámpara y coloca una luz en el interior.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/oQqBAwwG5_0?feature=share"
       },
       {
         "nombre": "Organizador colgante con jeans viejos",
         "materiales": ["Pantalón viejo", "Tijeras", "Hilo o silicona"],
         "informacion": "Corta bolsillos y fíjalos sobre una base para guardar objetos pequeños.",
-        "url": ""
+        "url": "https://youtu.be/wG0luz7mrb8"
       },
       {
         "nombre": "Cuadro con papel enrollado",
         "materiales": ["Papel reciclado", "Pegamento", "Base de cartón"],
         "informacion": "Enrolla tiras de papel y pégalas formando patrones o figuras decorativas.",
-        "url": ""
+        "url": "https://youtu.be/LK-5RaDBz1s"
       },
       {
         "nombre": "Porta velas con cáscaras de naranja",
         "materiales": ["Cáscaras", "Vela"],
         "informacion": "Vacía la naranja, haz diseños en la cáscara y coloca una vela dentro para aroma natural.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/0q2gbQlOAII?feature=share"
       },
       {
         "nombre": "Estante con cajas de madera recicladas",
         "materiales": ["Cajas", "Clavos o silicona"],
         "informacion": "Apila o fija cajas en la pared para crear un estante; puedes pintarlas o dejarlas rústicas.",
-        "url": ""
+        "url": "Estante con cajas de madera recicladas"
       },
       {
         "nombre": "Lámpara con tubos de cartón",
         "materiales": ["Tubos", "Pegamento", "Luz LED"],
         "informacion": "Une varios tubos formando una estructura circular o abstracta y coloca luz dentro.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/kD6UxOaAVUI?feature=share"
       },
       {
         "nombre": "Alfombra con retazos de tela",
-        "materiales": ["Tela reciclada", "Base de malla"],
+        "materiales": ["Tela reciclada", "Aguja o máquina de coser"],
         "informacion": "Ata tiras de tela sobre una base hasta cubrirla completamente para formar una alfombra.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/aUQnz7vUHZE?feature=share"
       },
       {
         "nombre": "Porta plantas con latas colgantes",
         "materiales": ["Latas", "Cuerda", "Plantas"],
         "informacion": "Decora las latas, haz orificios y cuélgalas con plantas en jardines o balcones.",
-        "url": ""
+        "url": "https://youtu.be/KSLEo467m7g"
       },
       {
         "nombre": "Decoración con botellas pintadas",
         "materiales": ["Botellas", "Pintura"],
         "informacion": "Pinta botellas de distintos colores y úsalas como elementos decorativos o floreros.",
-        "url": ""
+        "url": "https://youtu.be/QohcF34NtH0"
       }
     ],
     "hogar": [
@@ -1047,124 +1044,116 @@
         "nombre": "Organizador con cajas de zapatos",
         "materiales": ["Cajas", "Papel decorativo"],
         "informacion": "Forra las cajas y adapta divisiones internas para ropa o accesorios.",
-        "url": ""
+        "url": "https://youtu.be/85_WB314H2Q"
       },
       {
         "nombre": "Lámpara con cucharas y CD",
         "materiales": ["CD", "Cucharas", "Silicona", "Luz"],
         "informacion": "Usa el CD como base, pega cucharas en círculo y añade luz central.",
-        "url": ""
+        "url": "https://youtu.be/QTFE2fMyFOk"
       },
       {
         "nombre": "Porta accesorios con ramas",
         "materiales": ["Ramas", "Base firme"],
         "informacion": "Limpia y fija ramas sobre una base para colgar collares o pulseras.",
-        "url": ""
+        "url": "https://youtu.be/rQU9d6BIDFw"
       },
       {
         "nombre": "Decoración de pared con rollos de cartón",
         "materiales": ["Tubos de cartón", "Pegamento"],
         "informacion": "Corta tubos en aros y únelos formando figuras geométricas o florales.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/hJ8HnWN9HFk?feature=share"
       },
       {
         "nombre": "Bolsos con bolsas plásticas",
         "materiales": ["Bolsas", "Hilo o crochet"],
         "informacion": "Corta tiras de bolsas y teje para formar bolsos reutilizables.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/O46Noh_ugiU?feature=share"
       },
       {
         "nombre": "Lámpara con botellas de vidrio",
         "materiales": ["Botella", "Luz LED"],
         "informacion": "Introduce luces dentro de la botella o adapta una base para decoración elegante.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/pt1_xsbZa6o?feature=share"
       },
       {
         "nombre": "Juguete sensorial con botellas",
         "materiales": ["Botella", "Agua", "Brillantina"],
         "informacion": "Llena la botella con agua y brillantina para un juguete sensorial infantil.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/oLqMPtUb7tc?feature=share"
       },
       {
         "nombre": "Organizador colgante con botellas",
         "materiales": ["Botellas", "Cuerda"],
         "informacion": "Corta y cuelga botellas para guardar objetos pequeños.",
-        "url": ""
-      },
-      {
-        "nombre": "Cuadro con tela reciclada",
-        "materiales": ["Tela", "Cartón"],
-        "informacion": "Forra una base con tela y crea composiciones decorativas.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/dM9_6sN4Q3I?feature=share"
       },
       {
         "nombre": "Porta velas con papel endurecido",
         "materiales": ["Papel", "Pegamento", "Molde"],
         "informacion": "Aplica capas de papel con pegamento sobre un molde, deja secar y usa como base.",
-        "url": ""
+        "url": "https://youtu.be/D4BS9vHeOKM"
       },
       {
         "nombre": "Espejo con cartón reciclado",
         "materiales": ["Cartón", "Espejo", "Pegamento"],
         "informacion": "Crea un marco grueso con cartón y decóralo con texturas o pintura.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/NONBVJ_mzU8?feature=share"
       },
       {
         "nombre": "Lámpara con cajas recicladas",
         "materiales": ["Cajas", "Cúter", "Luz LED"],
         "informacion": "Haz cortes decorativos en cajas y coloca luz interna.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/LHjBrZOxvxw?feature=share"
       },
       {
         "nombre": "Porta lápices con tubos decorados",
         "materiales": ["Tubos", "Papel o pintura"],
         "informacion": "Decora tubos y úsalos para organizar escritorio.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/BJSuq_d4rpI?feature=share"
       },
       {
         "nombre": "Jardín en frascos colgantes",
         "materiales": ["Frascos", "Cuerda", "Plantas"],
         "informacion": "Cuelga frascos con plantas pequeñas para interiores.",
-        "url": ""
+        "url": "https://youtu.be/RvEw9Gjwebc"
       },
       {
         "nombre": "Decoración con corchos",
         "materiales": ["Corchos", "Pegamento"],
         "informacion": "Forma cuadros, bases o figuras decorativas con corchos.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/36Yz6G6h3uM?feature=share"
       },
       {
         "nombre": "Caja fuerte casera (alcancía avanzada)",
         "materiales": ["Caja", "Cartón", "Pegamento"],
         "informacion": "Diseña compartimentos internos y una tapa segura para alcancía avanzada.",
-        "url": ""
+        "url": "https://youtu.be/bOd0QwW0FHk"
       },
       {
         "nombre": "Porta celular con gafas viejas",
         "materiales": ["Gafas", "Silicona"],
         "informacion": "Usa la forma de gafas para sostener el celular sobre una superficie.",
-        "url": ""
+        "url": "https://youtu.be/k1YoC6iDLA0"
       },
       {
         "nombre": "Lámpara con papel tipo origami",
         "materiales": ["Papel", "Pegamento", "Luz LED"],
         "informacion": "Dobla figuras de papel y arma una estructura luminosa.",
-        "url": ""
+        "url": "https://youtu.be/XFmykdCs3EE?list=PLte3jDrsIQtNZemSvX0XBhfJ1_wlzjsx5"
       },
       {
         "nombre": "Organizador con latas y madera",
         "materiales": ["Latas", "Base de madera"],
         "informacion": "Fija latas sobre una base de madera para organizar herramientas o útiles.",
-        "url": ""
+        "url": "https://youtu.be/DYJKz9TOFBA"
       },
       {
         "nombre": "Mural con materiales mixtos",
         "materiales": ["Cartón", "Plástico", "Papel", "Tela"],
         "informacion": "Combina distintos materiales reciclados para crear una obra artística grande.",
-        "url": ""
+        "url": "https://www.youtube.com/shorts/PgQbAGA_0DE?feature=share"
       }
     ]
+  }
 }
-
-
-
